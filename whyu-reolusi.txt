@@ -10,4 +10,3 @@ Wahyu Resolusi
 - Deep Dive Web3(DeFi, NFT, DAO, Tooling Dev, Zk & Privacy)
 - Build Portofolio + Hackaton
 - Build Startup
-- To be billionaire

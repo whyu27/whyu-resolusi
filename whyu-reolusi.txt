@@ -1,0 +1,12 @@
+Wahyu Resolusi
+- Konsisten belajar minimal 4 jam perhari
+- HTML, CSS, JavaScript
+- Git and Github
+- Tailwind CSS and React JS
+- Backend dasar (Node.js)
+- Blockchain fundamentals
+- Smart Contract(Solidity, Hardhat)
+- Integrasi dApp (ether.js, RainbowKit + Wagmi)
+- Deep dive Web3(DeFi, NFT, DAO, Tooling Dev, Zk & Privacy)
+- Build Portofolio + Hackaton
+- Build Startup
